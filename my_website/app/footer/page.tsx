@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="my-4 lg:flex-row justify-between lg:space-x-2"></div>
 
         <div className="flex flex-col items-start justify-start text-center ">
-          <div className="mb-4 lg:mb-0 ml-24">
+          <div className="mb-4 lg:mb-0 lg:ml-0 ml-28">
             <p className="font-medium text-4xl">Ideal Interiors</p>
             <p className="text-sm font-sans">
               &copy; 2024 | All rights reserved.

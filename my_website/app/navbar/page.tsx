@@ -37,7 +37,7 @@ export default function Navbar() {
               navbar ? "p-12 md:p-0 block" : "hidden"
             }`}
           >
-            <ul className="h-screen md:h-auto md:flex mx-auto items-center justify-center">
+            <ul className="h-screen md:h-auto md:flex mx-auto items-end justify-end">
               <li className="pb-5 text-lg py-2 text-center md:px-4">
                 <Link href={"/"}>Home</Link>
               </li>
